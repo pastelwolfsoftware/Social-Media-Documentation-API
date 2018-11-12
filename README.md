@@ -1,1 +1,1 @@
-# Social-Media-Documentation-API
+# Social Media Documentation & API
